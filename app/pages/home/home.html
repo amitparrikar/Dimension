@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar>
+    <button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Dimensions</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <button ion-item *ngFor="let item of categoryData" (click)="categoryItemTapped($event, item)">
+      <!--<ion-icon  item-left></ion-icon>-->
+      {{item.name}}
+    </button>
+  </ion-list>
+</ion-content>

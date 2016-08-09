@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "Windows",
+    "data": [
+      {
+        "code": "BAYWIN",
+        "name": "Bay windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "BAYWIN.png"
+        ]
+      },
+      {
+        "code": "GABLWIN",
+        "name": "Gable windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "GABLWIN.png"
+        ]
+      },
+      {
+        "code": "SKYLWIN",
+        "name": "Sky light windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "SKYLWIN.png"
+        ]
+      },
+      {
+        "code": "DORMWIN",
+        "name": "Dormer windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "DORMWIN.png"
+        ]
+      },
+      {
+        "code": "CORNWIN",
+        "name": "Corner windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "CORNWIN.png"
+        ]
+      },
+      {
+        "code": "STORWIN",
+        "name": "Clear storey windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "STORWIN.png"
+        ]
+      },
+      {
+        "code": "CASWIN",
+        "name": "Casement windows",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "CASWIN.png"
+        ]
+      },
+      {
+        "code": "VENTWIN",
+        "name": "Ventilators",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          "VENTWIN.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Doors",
+    "data": [
+      {
+        "code": "TIMBDOOR",
+        "name": "Timber/Wood Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "BATTDOOR",
+        "name": "Battened and Ledged Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "FRAMDOOR",
+        "name": "Frammed and Paneled Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "FLUSDOOR",
+        "name": "Flush Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "GLASDOOR",
+        "name": "Glass Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "STEEDOOR",
+        "name": "Steel Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "PVCDOOR",
+        "name": "PVC Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "FIBERDOOR",
+        "name": "Fiberglass Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "ALUMDOOR",
+        "name": "Aluminium Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      },
+      {
+        "code": "BAMBDOOR",
+        "name": "Bamboo-Jute Composite Door",
+        "dimensionLabels": "A,B,C,D",
+        "designImages": [
+          ""
+        ]
+      }
+    ]
+  }
+]
