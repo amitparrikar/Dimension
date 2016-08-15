@@ -4,7 +4,7 @@
 import {Component} from '@angular/core';
 
 @Component({
-  templateUrl: 'build/pages/home/home.html'
+  templateUrl: 'build/pages/myOrder/myOrder.html'
 })
 export class MyOrderComponent{
   pageName: string;

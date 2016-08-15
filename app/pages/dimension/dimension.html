@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar primary>
+    <button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{itemName}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <div>
+    <h3>Add dimensions page</h3>
+    <button fab fab-top fab-right (click)="openModal()">
+      <ion-icon name="eye"></ion-icon>
+    </button>
+  </div>
+
+
+
+
+  <ion-segment>
+    <button block>Draft</button>
+    <button block>Order</button>
+  </ion-segment>
+
+
+</ion-content>

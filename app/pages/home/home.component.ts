@@ -8,7 +8,7 @@ import { OrderProvider } from '../../providers/order-provider/order-provider';
 import { CommonProvider } from '../../providers/common-provider/common-provider';
 import {Category} from "../../models/category";
 
-import {SubCategory} from '../subCategory/subCategory.component';
+import {SubCategoryComponent} from '../subCategory/subCategory.component';
 
 
 @Component({
@@ -40,7 +40,7 @@ export class HomeComponent implements OnInit{
   }
 
   categoryItemTapped(event, item){
-    this.navCtrl.push(SubCategory, {
+    this.navCtrl.push(SubCategoryComponent, {
       item: item
     });
   }

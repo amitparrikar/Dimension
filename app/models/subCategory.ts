@@ -1,6 +1,6 @@
 export class SubCategory{
   code: string;
-  displayName: string;
+  name: string;
   dimensionLabels: string;
   designImages: string[];
 }
